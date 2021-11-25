@@ -10,7 +10,7 @@
    </a>
 </p>
 
-### Android developer from Perú. 📱 :peru:
+### Mobile Developer from Perú. 📱 :peru:
 
 ## ⚡️ &nbsp;**Tecnologías**
 
