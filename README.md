@@ -1,7 +1,7 @@
 ## Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy [Lizardo Reyes](https://github.com/lizardoreyes) 👨🏻‍💻
 
 <p align="center" width="100%">
-  <a href="https://twitter.com/lizardodev">
+  <a href="https://twitter.com/lizardoSEO">
   <img src="https://img.shields.io/twitter/follow/lizardoSEO?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=lizardoreyes&label=Profile%20views&color=0e75b6&style=flat" alt="lizardoreyes" />
@@ -37,5 +37,5 @@
 If I can be of help to you in any project or you are interested in making a new friend, do not hesitate to contact me.
 
 [![LinkediIn](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizardoreyes)
-[![Twiter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lizardodev)
+[![Twiter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lizardoSEO)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lizardoreyes)
