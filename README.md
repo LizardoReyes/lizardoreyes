@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
   <a href="https://twitter.com/lizardodev">
-  <img src="https://img.shields.io/twitter/follow/lizardodev?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
+  <img src="https://img.shields.io/twitter/follow/lizardoSEO?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=lizardoreyes&label=Profile%20views&color=0e75b6&style=flat" alt="lizardoreyes" />
   <a href="https://github.com/lizardoreyes">
