@@ -1,8 +1,8 @@
 ## Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy [Lizardo Reyes](https://github.com/lizardoreyes) 👨🏻‍💻
 
 <p align="center" width="100%">
-  <a href="https://twitter.com/lizardoSEO">
-  <img src="https://img.shields.io/twitter/follow/lizardoSEO?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
+  <a href="https://twitter.com/lizardoreyes_">
+  <img src="https://img.shields.io/twitter/follow/lizardoreyes_?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=lizardoreyes&label=Profile%20views&color=0e75b6&style=flat" alt="lizardoreyes" />
   <a href="https://github.com/lizardoreyes">
