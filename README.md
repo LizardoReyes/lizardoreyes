@@ -19,6 +19,20 @@ Actualmente trabajo con tecnologías del ecosistema **Java + Spring**, integraci
 
 ---
 
+# 🚀 Arquitectura Backend
+
+💡 Experiencia trabajando con:
+
+- **Arquitectura Hexagonal**
+- **Microservicios**
+- **Arquitectura basada en eventos**
+- **Integración de APIs REST**
+- **Mensajería con Kafka**
+- **Reglas de negocio con Drools**
+- **Persistencia con JPA / Hibernate**
+
+---
+
 # ⚡️ Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -47,10 +61,42 @@ Actualmente trabajo con tecnologías del ecosistema **Java + Spring**, integraci
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lizardoreyes&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizardoreyes&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=lizardoreyes&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Actividad
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lizardoreyes&theme=tokyo-night"/>
+</p>
+
+---
+
 # 🌐 Social
 
 Si deseas colaborar en algún proyecto o simplemente conectar, no dudes en contactarme.
 
-[![LinkediIn](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizardoreyes)
+[![LinkedIn](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizardoreyes)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lizardoreyes_)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lizardoreyesj)
+
+---
+
+⭐️ From [Lizardo Reyes](https://github.com/lizardoreyes)
